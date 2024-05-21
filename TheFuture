@@ -8,7 +8,7 @@ if (Used_Artificial_Intelligence === true) {
     var How_Used = "";
 }
 if (Used_Previous_Template === true) {
-    var Credit = "Credits for the template go to an unknown author (Unfortunately, the author could not be found).";
+    var Credit = "I used a template created by 'Florin Pop' from CodePen";
 } else {
     var Credit = "100% original";
 }
@@ -18,7 +18,7 @@ if (Usei_Inteligencia_Artificial === true) {
     var Como_Usei = "";
 }
 if (Usei_Template_Previo === true) {
-    var Credito = "Os créditos do template vão para um autor desconhecido (Infelizmente, o autor não pôde ser encontrado).";
+    var Credito = "Usei um Template como base criado pelo 'Florin Pop' do CodePen";
 } else {
     var Credito = "100% autoral";
 }
